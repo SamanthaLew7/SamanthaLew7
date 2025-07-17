@@ -1,7 +1,7 @@
-<h2 align="left">Hey there 👋!!! My name is Samantha and I'm a Statistical Data Science graduate, from Heriot-Watt University </h2>
+<h2 align="left">Hey there 👋!!! </h2>
 
 ###
-Welcome to my little corner of GitHub 🗂️✨. I’m currently working on building a stronger portfolio to showcase my capabilities and to push myself to learn more along the way.
+Welcome to my little corner of GitHub 🗂️✨.  I'm Samantha, who's a Statistical Data Science graduate from Heriot-Watt University. I’m currently working on building a stronger portfolio to showcase my capabilities and to push myself to learn more along the way.
 
 I love exploring new tech skills, especially in data and analytics 📊. I recently participated in the WiDS Datathon 2025, where I developed a predictive model utilising brain imaging and demographic data. This experience sparked my interest in leveraging data for real-world insights.
 
@@ -11,7 +11,7 @@ Here, you’ll mostly find:
 - 📚 Bits and pieces of what I’ve learned (and am still figuring out)
 - 💡 Things that help me (and maybe you too) make sense of messy data and ideas
 
-If you’re curious, feel free to look around. Always happy to connect, share ideas, or just swap tips on how to make learning fun (and a little less stressful) 🌟
+If you’re curious, feel free to look around. I'm still slowly uploading my personal projects. Always happy to connect, share ideas, or just swap tips on how to make learning fun (and a little less stressful) 🌟
 
 <h3 align="left">Tech Stack </h3>
 <div align="left">
